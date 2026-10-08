@@ -8,7 +8,7 @@ Download the repository and extract it. In Maya's Python Script Editor, run:
 
 ```python
 import runpy
-runpy.run_path(r"C:\path\to\maya-skin-tools\unsmooth-skin-weights\install.py", run_name="__main__")
+runpy.run_path(r"C:\path\to\greennnnnnner.github.io\portfolio\maya\unsmooth-skin-weights\install.py", run_name="__main__")
 ```
 
 The installer copies the command plug-in and UI to Maya's user directories, loads the plug-in, and opens the window. Existing files are backed up. Restart Maya before installing an update to a loaded plug-in.
@@ -29,7 +29,7 @@ unsmoothSkinWeightsUI.show_ui()
 
 **Contrast** applies a gamma curve to each vertex's weights. It strengthens the dominant influence without reading nearby vertices.
 
-**Neighbor** uses each influence's highest weight in the local neighborhood as a mask. **Surface** uses edge-connected vertices. **Volume** uses vertices within a world-space radius, including vertices across folds or on nearby meshes' surfaces only when part of the same selected mesh.
+**Neighbor** uses each influence's highest weight in the local neighborhood as a mask. **Surface** uses edge-connected vertices. **Volume** uses vertices within a world-space radius, including vertices across folds in the same mesh.
 
 | Parameter | Default | Range or values |
 | --- | --- | --- |
