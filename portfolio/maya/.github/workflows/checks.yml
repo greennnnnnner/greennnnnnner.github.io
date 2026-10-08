@@ -1,0 +1,16 @@
+name: Python checks
+on: [push, pull_request]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: portfolio/maya
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: python -m compileall -q unsmooth-skin-weights multi-weight-transfer tests
+      - run: python -m unittest discover -s unsmooth-skin-weights/tests -p 'test_algorithms.py' -v
+      - run: python -m unittest discover -s tests -p 'test_seams.py' -v
