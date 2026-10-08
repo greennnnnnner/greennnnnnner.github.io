@@ -17,7 +17,7 @@ You can also add the repository's scripts directory to `sys.path`:
 
 ```python
 import sys
-sys.path.insert(0, r"C:\path\to\maya-skin-tools\multi-weight-transfer\scripts")
+sys.path.insert(0, r"C:\path\to\greennnnnnner.github.io\portfolio\maya\multi-weight-transfer\scripts")
 import multi_weight_transfer
 multi_weight_transfer.show()
 ```
