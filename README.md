@@ -17,11 +17,11 @@
 
 | Script | What it does | Details |
 | --- | --- | --- |
-| **Unsmooth Skin Weights** | Sharpens skin weight transitions on a mesh or selected vertices. Includes Contrast, Neighbor, Surface, and Volume modes, with undo and redo. | [Overview, installation & usage](portfolio/maya/unsmooth-skin-weights/README.md) |
-| **Multi Weight Transfer** | Transfers skin weights from multiple source meshes to multiple targets and matches weights along seams. Supports four transfer methods. | [Overview, installation & usage](portfolio/maya/multi-weight-transfer/README.md) |
+| **Unsmooth Skin Weights** | Sharpens skin weight transitions on a mesh or selected vertices. Includes Contrast, Neighbor, Surface, and Volume modes, with undo and redo. | [Overview, installation & usage](maya-scripts/unsmooth-skin-weights/README.md) |
+| **Multi Weight Transfer** | Transfers skin weights from multiple source meshes to multiple targets and matches weights along seams. Supports four transfer methods. | [Overview, installation & usage](maya-scripts/multi-weight-transfer/README.md) |
 
-[Source files and test notes](portfolio/maya/)
+[Source files and test notes](maya-scripts/)
 
 ## Unreal Scripts
 
-Scripts and demos will be added here. [Details](portfolio/unreal/README.md)
+Scripts and demos will be added here. [Details](unreal-scripts/README.md)
