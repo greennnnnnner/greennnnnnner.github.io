@@ -8,7 +8,7 @@ Download the repository and extract it. In Maya's Python Script Editor, run:
 
 ```python
 import runpy
-runpy.run_path(r"C:\path\to\greennnnnnner.github.io\portfolio\maya\unsmooth-skin-weights\install.py", run_name="__main__")
+runpy.run_path(r"C:\path\to\greennnnnnner.github.io\maya-scripts\unsmooth-skin-weights\install.py", run_name="__main__")
 ```
 
 The installer copies the command plug-in and UI to Maya's user directories, loads the plug-in, and opens the window. Existing files are backed up. Restart Maya before installing an update to a loaded plug-in.
