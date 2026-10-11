@@ -1,4 +1,4 @@
-# Unreal Engine
+# Unreal Scripts
 
 Project write-ups and demos will be added here.
 
@@ -13,4 +13,4 @@ Project write-ups and demos will be added here.
 | Website or build | To be added |
 | Source code | To be added |
 
-[Back to portfolio](../../README.md)
+[Back to portfolio](../README.md)
