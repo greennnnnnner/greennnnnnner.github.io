@@ -24,4 +24,6 @@
 
 ## Unreal Scripts
 
-Scripts and demos will be added here. [Details](unreal-scripts/README.md)
+| Script | What it does | Details |
+| --- | --- | --- |
+| **Transfer Materials by Slot Name** | Copies material assignments between mesh assets by matching slot names. | [Usage & source](unreal-scripts/README.md) |
