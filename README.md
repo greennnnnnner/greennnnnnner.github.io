@@ -36,30 +36,3 @@ Project write-ups and demos will be added here. [Project details](portfolio/unre
 | GitHub | [greennnnnnner](https://github.com/greennnnnnner) |
 | LinkedIn | To be added |
 | Website | To be added |
-
-## More
-
-<details>
-<summary>Learning</summary>
-
-- [Java learning](https://github.com/greennnnnnner/Java-learning)
-- [C language learning](https://github.com/greennnnnnner/C-language-learning)
-
-[Learning index](learning/)
-
-</details>
-
-<details>
-<summary>Other projects</summary>
-
-- [ConductorVR](https://github.com/greennnnnnner/Proj1B_ConductorVR)
-- [MoneyGoesFast](https://github.com/greennnnnnner/MoneyGoesFast)
-- [galleryMini](https://github.com/greennnnnnner/galleryMini)
-- [liminalchess](https://github.com/greennnnnnner/liminalchess)
-- [sweethome](https://github.com/greennnnnnner/sweethome)
-
-[Other projects index](other-projects/)
-
-</details>
-
-<!-- Replace each "To be added" entry with [Watch video](URL), [LinkedIn](URL), or [Visit website](URL) when ready. -->
