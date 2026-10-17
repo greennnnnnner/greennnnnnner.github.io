@@ -1,9 +1,10 @@
-# Maya Skin Tools
+# Maya Scripts
 
-Two Python tools for editing and transferring skin weights in Maya.
+Python tools for editing and transferring skin weights in Maya.
 
 | Tool | Purpose |
 | --- | --- |
+| [Skin Transfer Tool](skin-transfer-tool/README.md) | Batch transfers with Pair and Combine modes, repeated source rows, and source or target influence policies. |
 | [Unsmooth Skin Weights](unsmooth-skin-weights/README.md) | Sharpen weight transitions on a mesh or selected vertices. |
 | [Multi Weight Transfer](multi-weight-transfer/README.md) | Copy weights from multiple sources to multiple destinations, then match seam weights. |
 
