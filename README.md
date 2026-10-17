@@ -17,6 +17,7 @@
 
 | Script | What it does | Details |
 | --- | --- | --- |
+| **Skin Transfer Tool** | Batch skin transfers with Pair / Combine modes, repeated source rows, and a choice of source or target influences. | [Overview, installation & usage](maya-scripts/skin-transfer-tool/README.md) |
 | **Unsmooth Skin Weights** | Sharpens skin weight transitions on a mesh or selected vertices. Includes Contrast, Neighbor, Surface, and Volume modes, with undo and redo. | [Overview, installation & usage](maya-scripts/unsmooth-skin-weights/README.md) |
 | **Multi Weight Transfer** | Transfers skin weights from multiple source meshes to multiple targets and matches weights along seams. Supports four transfer methods. | [Overview, installation & usage](maya-scripts/multi-weight-transfer/README.md) |
 
